@@ -90,3 +90,17 @@ margin-left: -2px;
   display: none;
 }
 
+@media (max-width: 790px) {
+
+  body {
+    padding: 0;
+    overflow: hidden;
+  }
+
+  
+ img {
+  width: 100%;
+  height: auto;
+  max-width: 300px;
+ }
+}
