@@ -93,6 +93,7 @@ margin-left: -2px;
 
 body {
   height: 100vh;
+  overflow: hidden;
 }
 
  img {
