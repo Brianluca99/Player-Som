@@ -32,6 +32,7 @@ document.querySelector('.anterior').addEventListener('click',() => {
   if (indexMusica < 0)
   indexMusica = 2;
 renderizarMusica(indexMusica);
+musica.play()
 })
 
 document.querySelector('.proxima').addEventListener('click',() => {
@@ -39,7 +40,7 @@ document.querySelector('.proxima').addEventListener('click',() => {
   if (indexMusica >2)
   indexMusica = 0
 renderizarMusica(indexMusica);
-musica.play();
+musica.play()
 })
 
 //Funções 
