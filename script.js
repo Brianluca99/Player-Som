@@ -39,6 +39,7 @@ document.querySelector('.proxima').addEventListener('click',() => {
   if (indexMusica >2)
   indexMusica = 0
 renderizarMusica(indexMusica);
+musica.play()
 })
 
 //Funções 
