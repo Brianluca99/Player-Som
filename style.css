@@ -93,7 +93,7 @@ margin-left: -2px;
 @media (max-width: 790px) {
 
 body {
-  height: 100vh;
+ overflow: hidden;
 }
 
  img {
@@ -164,7 +164,7 @@ margin-left: -2px;
 }
 
 .setas {
-  font-size: 40px;
+  font-size: 30px;
   cursor: pointer;
 }
 
