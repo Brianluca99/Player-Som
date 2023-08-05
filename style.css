@@ -9,6 +9,7 @@ height: 100vh;
 background-color: #333;
   color: #ddd;
   font-family: 'Montserrat', sans-serif;
+  overflow: hidden;
 }
 
 img {
@@ -93,7 +94,6 @@ margin-left: -2px;
 
 body {
   height: 100vh;
-  overflow: hidden;
 }
 
  img {
