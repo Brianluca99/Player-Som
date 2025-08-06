@@ -1,5 +1,5 @@
 # Player Som
-![preview](./player.png)
+![preview](./imagens/player.png)
 
 Contém um player de som com 3 músicas. 
 
